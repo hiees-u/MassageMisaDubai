@@ -1,4 +1,4 @@
-const menuLinks = document.querySelectorAll('.menu a');
+const menuLinks = document.querySelectorAll('.menu .menu-item');
 menuLinks.forEach(link => {
     link.addEventListener('click', e => {
         e.preventDefault();
