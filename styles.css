@@ -34,3 +34,14 @@
   height: 200px;
 }
 
+.bg-primary {
+  background-color: #e968a28a !important;
+}
+
+.text-primary {
+  color: #ff0073 !important;
+}
+
+.border-primary {
+  border-color: #ff0073 !important;
+}
